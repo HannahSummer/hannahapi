@@ -1,16 +1,11 @@
 {
-  "posts":[
+  "clients":[
     {
       "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
-    {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "nome": "Hannah",
+      "sobrenome" : "Summer",
+      "email" : "hannahlaisa@gmail.com",
+      "idade" : "14"
     }
   ]
 }
